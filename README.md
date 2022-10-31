@@ -1,4 +1,4 @@
-<h1 align="center">Number Generator</h1> 
+<h1 align="center">Coffee Shop</h1> 
 
 - Description:
 
